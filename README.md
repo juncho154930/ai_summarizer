@@ -1,2 +1,5 @@
-# ai_summarizer
- 
+react
+redux
+vite
+RapidApi
+Tailwind
